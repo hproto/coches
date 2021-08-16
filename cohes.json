@@ -1,12 +1,9 @@
 {
     "Coches":
       [
-      {"Id":"1", "marca":"Ford", "Modelo":"Fuego", "Ano":"2100", "Motor":"Agua/Tierra/Roca","Img":"charmander.png",
-        "Ataques" : 
-        [
-          { "Id":"1"} , { "Id" : "2"}
-        ]
+      {"Id":"1", "marca":"Ford", "Modelo":"Fuego", "Ano":"2100", "Motor":"1.6"
       },
+          
       {"Id":"1", "marca":"Renault", "Modelo":"Fuego", "Ano":"2100", "Motor":"Agua/Tierra/Roca","Img":"charmander.png",
         "Ataques" : 
         [
