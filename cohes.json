@@ -24,19 +24,6 @@
 			"Motor": "2.0"
 		},
 
-		{
-			"Id": "4",
-			"marca": "Ford",
-			"Modelo": "Ka",
-			"Ano": "2015",
-			"Motor": "1.4"
-		},
-		{
-			"Id": "5",
-			"marca": "Nissan",
-			"Modelo": "VV",
-			"Ano": "2016",
-			"Motor": "2.0"
-		}
+
 	]
 }
